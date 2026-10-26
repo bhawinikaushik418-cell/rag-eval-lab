@@ -1,0 +1,13 @@
+sources:
+  - name: laws_of_cricket_wiki
+    type: wikipedia
+    title: Laws_of_Cricket
+    licence: CC BY-SA
+  - name: lbw_wiki
+    type: wikipedia
+    title: Leg_before_wicket
+    licence: CC BY-SA
+  - name: drs_wiki
+    type: wikipedia
+    title: Decision_Review_System
+    licence: CC BY-SA
